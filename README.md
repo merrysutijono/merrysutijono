@@ -4,10 +4,15 @@ Hello! I'm Merry Sutijono and I am currently a fourth year at University of Cali
 
 ## Technical Skills:
 **Programming Languages**: 
-
+- R
 - Python3
 - JavaScript: React.js, Node.js
 - HTML/CSS: Bootstrap
 - C++
+
+**IDE**:
+- RStudio
+- CodeBlocks
+- Visual Studio Code
 
 I am open to collaborations and work opportunities in either Web Development or Application Development. Feel free to explore my GitHub repositories.
