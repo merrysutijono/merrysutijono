@@ -20,7 +20,4 @@ Hello! I'm Merry Sutijono and I am currently a fourth year undergraduate at Univ
 - Eclipse
 - Visual Studio Code (Often Used)
 
-**Relative coursework**:
-Introduction to Programming, Advanced Programming, Object Oriented Programming, Program Design and Data Structures, Data Sense & Exploration: Critical Storytelling with Analysis, Algorithm Design and Analysis
-
 I am open to collaborations and work opportunities in whichever projects that utilizes my skills. Feel free to explore my GitHub repositories.
