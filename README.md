@@ -1,4 +1,4 @@
-# Hi, everyone.
+# Hi, everyone 👋
 
 Hello! I'm Merry Sutijono and I am currently a fourth year at University of California, Davis majoring in Statistics and Computer Science. My current interests include front-end web development, and data analytics. Here lies my technical skills. 
 
