@@ -6,9 +6,13 @@ Hello! I'm Merry Sutijono and I am currently a fourth year at University of Cali
 **Programming Languages**: 
 - R
 - Python3
-- JavaScript: React.js, Node.js
-- HTML/CSS: Bootstrap
+- JavaScript
+- HTML/CSS
 - C++
+
+**Libraries**:
+- React.js, Node.js
+- Bootstrop
 
 **IDE**:
 - RStudio
