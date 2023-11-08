@@ -17,6 +17,7 @@ Hello! I'm Merry Sutijono and I am currently a fourth year at University of Cali
 **IDE**:
 - RStudio
 - CodeBlocks
-- Visual Studio Code
+- Eclipse
+- Visual Studio Code (Often Used)
 
 I am open to collaborations and work opportunities in either Web Development or Application Development. Feel free to explore my GitHub repositories.
