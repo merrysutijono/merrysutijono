@@ -11,8 +11,8 @@ Hello! I'm Merry Sutijono and I am currently a fourth year at University of Cali
 - C++
 
 **Libraries**:
-- React.js, Node.js
-- Bootstrop
+- JavaScript: React.js, Node.js
+- HTML, CSS, JavaScript: Bootstrap
 
 **IDE**:
 - RStudio
