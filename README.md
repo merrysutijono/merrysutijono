@@ -14,7 +14,7 @@ Hello! I'm Merry Sutijono and I am currently a fourth year undergraduate at Univ
 - JavaScript: React.js, Node.js, Tailwind.js
 - HTML, CSS, JavaScript: Bootstrap
 
-**IDE**:
+**Integrated Development Environment**:
 - RStudio
 - CodeBlocks
 - Eclipse
