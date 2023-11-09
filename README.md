@@ -18,6 +18,6 @@ Hello! I'm Merry Sutijono and I am currently a fourth year undergraduate at Univ
 - RStudio
 - CodeBlocks
 - Eclipse
-- Visual Studio Code (Often Used)
+- Microsoft Visual Studio Code (Often Used)
 
 I am open to collaborations and work opportunities in whichever projects that utilizes my skills. Feel free to explore my GitHub repositories.
