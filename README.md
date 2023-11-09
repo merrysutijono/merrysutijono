@@ -5,7 +5,7 @@ My name is Merry Sutijono and I am currently a fourth year undergraduate at Univ
 ## Technical Skills:
 **Programming Languages**: 
 - R
-- Python3
+- Python
 - JavaScript
 - HTML/CSS
 - C++ (current version)
