@@ -8,7 +8,7 @@ Hello! I'm Merry Sutijono and I am currently a fourth year undergraduate at Univ
 - Python3
 - JavaScript
 - HTML/CSS
-- C++
+- C++ (current version)
 
 **Libraries**:
 - JavaScript: React.js, Node.js, Tailwind.js
