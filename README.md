@@ -1,6 +1,6 @@
 # Hi, everyone 👋
 
-My name is Merry Sutijono and I am currently a fourth year undergraduate at University of California, Davis studying Statistics and Computer Science. My current interests include front-end web development, and data analytics. I learn via YouTube videos, Khan Academy, FreeCodeCamp and Codecedemy. Here lies my technical skills. 
+My name is Merry Sutijono and I am currently a fourth year undergraduate at University of California, Davis studying Statistics and Computer Science. My current interests include front-end web development, and data analytics. Here lies my technical skills. 
 
 ## Technical Skills:
 **Programming Languages**: 
