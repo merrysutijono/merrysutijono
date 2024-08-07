@@ -6,11 +6,11 @@ My name is Merry Sutijono and I am currently a fourth year undergraduate at Univ
 **Programming Languages**: R, Python, JavaScript, HTML, CSS, C++ (current version)
 
 **Libraries**:
-- JavaScript: React.js, Node.js, Tailwind.js
+- JavaScript: React.js, Node.js
 - HTML, CSS, JavaScript: Bootstrap
 - Python: BeautifulSoup, turtle
 
-**Integrated Development Environments**: RStudio, CodeBlocks, Eclipse, Microsoft Visual Studio Code (Often Used)
+**Integrated Development Environments, Text Editors**: RStudio, CodeBlocks, Eclipse, Microsoft Visual Studio Code (Often Used)
 
 **Operating Systems**: Windows, Mac
 
